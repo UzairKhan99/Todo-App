@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(14, 65, 173);
+}
+
+.conatainer {
+    max-width: 250px;
+    margin-left: 550px;
+    margin-top: 300px;
+    background-color: rgb(147, 186, 226);
+    padding: 100px;
+    text-align: center;
+    border-radius: 9px;
+}
+
+.header {
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    font-size: small;
+}
+
+.main-section {
+    display: flex;
+}
+
+input {
+    padding: 8px 18px 8px 18px;
+    border-radius: 9px;
+    border: solid #fff;
+    outline: none;
+}
+
+button {
+    padding: 8px 18px 8px 18px;
+    border-radius: 9px;
+    margin-left: 5px;
+    border: solid rgb(147, 186, 226);
+}
